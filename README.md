@@ -85,6 +85,7 @@ If it is not "K", it leaves the cell value as is.
 - By applying this formula to the 'Hits(Updated)' column and dragging it down to apply it to the rest of the cells, the column will be converted to numerical form, multiplying the values ending with "K" by 1000.
 
 **Step 5**
+
 In the contract column, we see that the range is separated by `~`. Let's change this to a more meaningful symbol: `-`.
 
 - Create and apply the following formula to the Contract(Updated) column 
